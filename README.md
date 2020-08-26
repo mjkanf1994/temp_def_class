@@ -9,6 +9,6 @@
 
 - 자동으로 구성을 완성해준다.
     + 자동으로 구성해 준다.
-    + https://www.ncs.go.kr/unity/th03/ncsResultSearch.do 
+    + url(https://www.ncs.go.kr/unity/th03/ncsResultSearch.do) 
 
 
